@@ -5,7 +5,7 @@ Conceitos utilizados:
 - RecycleView
 - Lifecycle de componentes
 - Persistencia de dados com Room
-- Arquitetura MVM
+- Arquitetura MVVM
 - Screenshot
 
 
