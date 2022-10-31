@@ -8,5 +8,3 @@ Conceitos utilizados:
 - Arquitetura MVVM
 - Screenshot
 
-
-Obs: O app está em processo de aprimoramento 
